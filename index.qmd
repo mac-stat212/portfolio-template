@@ -1,6 +1,6 @@
 # Welcome {.unnumbered}
 
-This is a quarto book template created by Amin Alhashim.  Use the side bar on the left for navigation.
+Welcome to my online portfolio for COMP/STAT112 course taken at [Macalester College](https://www.macalester.edu/).  Please, use the side bar on the left for navigation.
 
 ```{r}
 #| output: false

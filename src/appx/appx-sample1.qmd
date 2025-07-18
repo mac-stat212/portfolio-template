@@ -1,5 +1,5 @@
 ---
-title: "Sample 1"
+title: "Appendix Sample 1"
 ---
 
 Add content here

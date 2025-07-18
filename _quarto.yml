@@ -18,8 +18,8 @@ number-depth: 2
 
 
 book:
-  title: "Quarto Book"
-  author: "Author Name Here"
+  title: "COMP/STAT212 Portfolio"
+  author: "Your Name Here"
   date: today  # use today to update date published based on last time project was edited
   date-format: full
   # favicon: path/to/favorite-logo.png
@@ -42,7 +42,7 @@ book:
       # footer text
 
   sidebar:
-    title: "Sidebar Title Here"
+    title: "Your Name Here"
     logo: assets/sidebar-logo.png
     logo-alt: "Random negative space illustration"
     collapse-level: 2
@@ -56,15 +56,15 @@ book:
   chapters:
     - index.qmd
 
-    - part: "Section 1" # or src/s1/s1.qmd
+    - part: "In-Class Activities"
       chapters:
-      - src/s1/s1-sample1.qmd
-      - src/s1/s1-sample2.qmd
+      - src/ica/ica-sample1.qmd
+      - src/ica/ica-sample2.qmd
 
-    - part: "Section 1" # or src/s2/s2.qmd
+    - part: "TidyTuesday"
       chapters:
-      - src/s2/s2-sample1.qmd
-      - src/s2/s2-sample2.qmd
+      - src/tt/2025-07-08.qmd
+      - src/tt/2025-07-15.qmd
 
   appendices:
   - src/appx/appx-sample1.qmd

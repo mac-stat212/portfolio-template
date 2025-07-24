@@ -114,7 +114,7 @@ execute:
   echo: true
   warning: false
   error: false
-  cache: true
+  cache: false
 #   freeze: auto # remove when using GitHub action to execute code
 
 

@@ -1,0 +1,7 @@
+---
+title: "Pre-Class Learning Summaries"
+---
+
+## R
+
+![](0808-r.png)

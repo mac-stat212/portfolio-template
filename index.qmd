@@ -1,4 +1,7 @@
-# Welcome {.unnumbered}
+---
+title: "Welcome"
+---
+
 
 Welcome to my online portfolio for COMP/STAT112 course taken at [Macalester College](https://www.macalester.edu/).  Please, use the side bar on the left for navigation.
 
@@ -28,7 +31,7 @@ lapply(packages, require, character.only = TRUE)
 #| output: false
 #| echo: false
 
-ds <- read.csv(here("data", "raw", "msg.csv"))
+ds <- read.csv(here("assets", "msg.csv"))
 ```
 
 ```{r}

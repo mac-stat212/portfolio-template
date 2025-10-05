@@ -62,22 +62,25 @@ book:
 
     - part: "Prof Viz"
       chapters:
-      - src/pv/pv-01.qmd
+      - pv/pv-01.qmd
 
     - part: "TidyTuesday"
       chapters:
-      - src/tt/2025-07-08.qmd
-      - src/tt/2025-07-15.qmd
+      - tt/2025-07-08.qmd
+      - tt/2025-07-15.qmd
+
+    - part: "Pre-Class Learnings"
+      chapters:
+      - pcl/pcl.qmd
 
     - part: "In-Class Activities"
       chapters:
-      - src/ica/ica-sample1.qmd
-      - src/ica/ica-sample2.qmd
+      - ica/ica-sample1.qmd
+      - ica/ica-sample2.qmd
 
   appendices:
-  - src/appx/appx-sample1.qmd
-  - src/appx/appx-sample2.qmd
-  - mm/mm.md
+  - appx/appx-sample1.qmd
+  - appx/appx-sample2.qmd
 
 
 

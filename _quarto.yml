@@ -78,9 +78,10 @@ book:
       - ica/ica-sample1.qmd
       - ica/ica-sample2.qmd
 
-  appendices:
-  - appx/appx-sample1.qmd
-  - appx/appx-sample2.qmd
+    - part: "Extras"
+      chapters:
+      - extra/extra-sample1.qmd
+      - extra/extra-sample2.qmd
 
 
 
